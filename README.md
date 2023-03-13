@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahfieidn&label=Profile%20views&color=0e75b6&style=flat" alt="kahfieidn" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahfieidn&show_icons=true&locale=en&layout=compact" alt="kahfieidn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfieidn&show_icons=true&locale=en" alt="kahfieidn" /></p>
-
 - 🔭 I’m currently working on [CV. Jagoan Kode Group Indonesia](https://www.jagoankode.com/)
 
 - 🌱 I’m currently learning **Laravel, Flask, Flutter**
@@ -18,6 +14,10 @@
 - 📫 How to reach me **kahfie@jagoankode.com**
 
 - ⚡ Fun fact **I'm a perfectionist**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahfieidn&show_icons=true&locale=en&layout=compact" alt="kahfieidn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfieidn&show_icons=true&locale=en" alt="kahfieidn" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

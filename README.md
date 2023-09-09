@@ -15,10 +15,6 @@
 
 - ⚡ Fun fact **I'm a perfectionist**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahfieidn&show_icons=true&locale=en&layout=compact" alt="kahfieidn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfieidn&show_icons=true&locale=en" alt="kahfieidn" /></p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kahfieidn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kahfieidn" height="30" width="40" /></a>

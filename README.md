@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CV. Jagoan Kode Group Indonesia](https://www.jagoankode.com/)
 
-- 🌱 I’m currently learning **Laravel + Nuxt JS**
+- 🌱 I’m Full Stack Developer who love using **Laravel + Vue JS**
 
 - 👯 I’m collaborate on [Jagoan Kode Cloud](https://jagoankodecloud.com/)
 

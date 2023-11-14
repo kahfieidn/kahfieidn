@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on [CV. Jagoan Kode Group Indonesia](https://www.jagoankode.com/)
 
-- 🌱 I’m Full Stack Developer who love using **Laravel + Vue JS**
+- 🌱 I’m Full Stack Developer **Laravel & Vue JS**
 
 - 👯 I’m collaborate on [Jagoan Kode Cloud](https://jagoankodecloud.com/)
 
 - 🤝 I’m web developer on [DPMPTSP Provinsi Kepulauan Riau](https://dpmptsp.kepriprov.go.id/)
 
 - 📫 How to reach me **kahfie@jagoankode.com**
-
-- ⚡ Fun fact **I'm a perfectionist**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

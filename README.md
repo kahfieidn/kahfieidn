@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CV. Jagoan Kode Group Indonesia](https://www.jagoankode.com/)
 
-- 🌱 I’m Full Stack Developer **Laravel, Vue JS, And Quasar Framework**
+- 🌱 I’m Full Stack Developer **Who love with Laravel Ecosystem**
 
 - 👯 I’m collaborate on [Jagoan Kode Cloud](https://jagoankodecloud.com/)
 

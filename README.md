@@ -1,27 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mohammad Kahfi</h1>
-<h3 align="center">Be the best, Be the first!.</h3>
+### <div align="center">I'm Mohammad Kahfi, a full-time full-stack developer 👨‍💻 </div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kahfieidn&label=Profile%20views&color=0e75b6&style=flat" alt="kahfieidn" /> </p>
+- 🔭 I’m currently working on [CV. JAGOAN KODE GROUP INDOENSIA](https://www.jagoankode.com/)  
+  
 
-- 🔭 I’m currently working on [CV. Jagoan Kode Group Indonesia](https://www.jagoankode.com/)
+- 🌱 I’m currently focusing on Laravel, Next JS, Prisma Ecosystem  
+  
 
-- 🌱 I’m Full Stack Developer **Who love Laravel, Next JS, Prisma Ecosystem**
+- ❓ Ask me about anything related to stack and related technologies  
+  
 
-- 👯 I’m collaborate on [Jagoan Kode Cloud](https://jagoankodecloud.com/)
-
-- 🤝 I’m web developer on [DPMPTSP Provinsi Kepulauan Riau](https://dpmptsp.kepriprov.go.id/)
-
-- 📫 How to reach me **kahfie@jagoankode.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/kahfieidn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kahfieidn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kahfieidn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kahfieidn" height="30" width="40" /></a>
-<a href="https://fb.com/kahfieidn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kahfieidn" height="30" width="40" /></a>
-<a href="https://instagram.com/kahfie.idn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kahfie.idn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kahfieidn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kahfieidn" height="30" width="40" /></a>
-</p>
+<br/>  
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jagoankode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jagoankode" /></a></p><br><br>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="75" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="75" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kahfieidn&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/kahfieidn" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/kahfieidn" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/kahfie.idn" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/KahfieIDN" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

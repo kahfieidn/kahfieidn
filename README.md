@@ -1,7 +1,7 @@
 ### <div align="center">I'm Mohammad Kahfi, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [CV. JAGOAN KODE GROUP INDOENSIA](https://www.jagoankode.com/)  
+- 🔭 I’m currently working on [CV. JAGOAN KODE GROUP INDONESIA](https://www.jagoankode.com/)  
   
 
 - 🌱 I’m currently focusing on Laravel, Next JS, Prisma Ecosystem  

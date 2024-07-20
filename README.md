@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">My Tech Stack :</h2>
+<h2 align="left">Tech Stack :</h2>
 
 ###
 
@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/livewire/4E56A6" height="40" alt="livewire logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/filament/FB7A24" height="40" alt="filament logo" />
+  <img src="https://shop.filamentphp.com/cdn/shop/files/Logo-2.png?height=628&pad_color=fff&v=1669908723&width=1200" height="40" alt="filament logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
   <img width="12" />

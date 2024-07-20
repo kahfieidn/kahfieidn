@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CV. Jagoan Kode Group Indonesia](https://www.jagoankode.com/)
 
-- 🌱 I’m Full Stack Developer **Who love Laravel & Next JS Ecosystem**
+- 🌱 I’m Full Stack Developer **Who love Laravel, Next JS, Prisma Ecosystem**
 
 - 👯 I’m collaborate on [Jagoan Kode Cloud](https://jagoankodecloud.com/)
 

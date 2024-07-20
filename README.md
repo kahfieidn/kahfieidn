@@ -1,20 +1,13 @@
 ### <div align="center">I'm Mohammad Kahfi, a full-time full-stack developer 👨‍💻 </div>  
-  
 
 - 🔭 I’m currently working on [CV. JAGOAN KODE GROUP INDONESIA](https://www.jagoankode.com/)  
-  
-
 - 🌱 I’m currently focusing on Laravel, Next JS, Prisma Ecosystem  
-  
-
 - ❓ Ask me about anything related to stack and related technologies  
-  
 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -50,7 +43,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/kahfie.idn" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io-badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/KahfieIDN" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />

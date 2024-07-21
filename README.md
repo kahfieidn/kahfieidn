@@ -2,11 +2,7 @@
   <img src="https://profile-counter.glitch.me/kahfieidn/count.svg?"  />
 </div>
 
-###
-
 <h2 align="left">Tech Stack :</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
@@ -24,4 +20,6 @@
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo" />
 </div>

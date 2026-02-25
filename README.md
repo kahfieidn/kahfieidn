@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kahfieidn/count.svg?"  />
-</div>
-
 <h2 align="left">Tech Stack :</h2>
 
 <div align="left">
